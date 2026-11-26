@@ -1,0 +1,2 @@
+# Diese Zeile ersetzen, sobald dein AdMob-Konto existiert (AdMob → Apps → app-ads.txt → Zeile kopieren):
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
